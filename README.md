@@ -8,3 +8,7 @@ and basic html and css. this project is from the udacity FEND which i hope to ge
 - https://pixabay.com/photos/technology-computer-black-code-1283624/
 - https://unsplash.com/photos/6JVlSdgMacE
 - https://pixabay.com/photos/code-programming-love-computer-3078609/
+
+##note
+I Used fontawesome for the Social networks logos
+and the font i used it from google fonts
